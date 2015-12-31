@@ -26,8 +26,6 @@ console.log('test')
 var converter;
 ///////////////////////////////////////////////////
 
-var converter;
-
 var ALLOWED_CONTENT_TYPES = ['text/html', 'text/plain'];
 
 /**
