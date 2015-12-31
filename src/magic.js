@@ -9,7 +9,7 @@
  */
 'use strict';
 
-console.log('test')
+console.log('tes2t')
 /////////////////////////////////
 // DIRECT INSERT OF HTML2JSX
 /////////////////////////////////
